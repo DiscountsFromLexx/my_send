@@ -112,14 +112,14 @@ body {
 .input-group input {
     width: 100%;
     padding: 10px;
-    border: 2px solid #000080;
+    border: 0px solid #000080;
     border-radius: 2px;
     font-size: 14px;
     font-weight: 400;
     font-family: 'Montserrat', sans-serif;
     color: #000000;
     letter-spacing: 2px;
-    background: #808080;
+    background: #F5F5F5;
     transition: border-color 0.3s ease;
 }
 .input-group input:focus {
@@ -134,13 +134,13 @@ body {
     margin-top: 20px;
 }
 .submit-btn, .clear-btn {
-    background: linear-gradient(to bottom, #4682B4, #4682B4);
+    background: #4682B4);
     color: #fff;
     padding: 12px;
-    border: 1px solid #000080;
+    border: 1px solid #FFFFFF;
     border-radius: 6px;
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'Montserrat', sans-serif;
     -webkit-tap-highlight-color: transparent;
     letter-spacing: 5px;
@@ -247,6 +247,7 @@ body {
         padding: 8px 15px;
         font-size: 14px;
         font-weight: 200;
+        text-decoration: none;
     }
     .znahidka-btn {
         top: 10px;
