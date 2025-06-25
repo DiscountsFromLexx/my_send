@@ -119,7 +119,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: #000000;
     letter-spacing: 2px;
-    background: #48D1CC;
+    background: #808080;
     transition: border-color 0.3s ease;
 }
 .input-group input:focus {
