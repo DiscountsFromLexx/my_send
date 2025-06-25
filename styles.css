@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to bottom, #5F9EA0, #5F9EA0);
+    background: #5F9EA0;
     min-height: 100vh;
     font-family: Helvetica, Arial, sans-serif;
     -webkit-tap-highlight-color: transparent;
