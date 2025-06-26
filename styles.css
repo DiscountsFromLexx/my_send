@@ -133,7 +133,7 @@ body {
     gap: 15px;
     margin-top: 20px;
 }
-.submit-btn, .clear-btn .submit_alicats-btn {
+.submit-btn, .clear-btn, .submit_alicats-btn {
     background: #4682B4;
     color: #fff;
     padding: 12px;
@@ -148,11 +148,11 @@ body {
     transition: all 0.3s ease;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
 }
-.submit-btn:hover, .clear-btn:hover {
+.submit-btn:hover, .clear-btn:hover, .submit_alicats-btn:hover {
     background: linear-gradient(to bottom, #4682B4, #1E90FF);
     transform: translateY(-2px);
 }
-.submit-btn:active, .clear-btn:active {
+.submit-btn:active, .clear-btn:active, .submit_alicats-btn:active {
     transform: translateY(0);
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
 }
